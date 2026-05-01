@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "sumber": "Dinas Koperasi dan UKM Kota Bandung",
+    "tahun_data": "2025",
+    "total_umkm": 5811,
+    "total_koperasi": 1877,
+    "last_update": "2026-05-01"
+  },
+  "umkm_list": [
+    {
+      "id": "UMKM-001",
+      "name": "CV. Maju Jaya Teknik",
+      "category": "Elektronik & Komputer",
+      "location": "Jl. Soekarno-Hatta No. 123, Bandung",
+      "capacity": 500000000,
+      "contact": "0812-3456-7890",
+      "owner": "Budi Santoso",
+      "verified": true
+    },
+    {
+      "id": "UMKM-002",
+      "name": "Toko Komputer Andalan",
+      "category": "Elektronik & Komputer",
+      "location": "Paskal HyperSquare, Bandung",
+      "capacity": 1000000000,
+      "contact": "0821-9876-5432",
+      "owner": "Siti Nurhaliza",
+      "verified": true
+    },
+    {
+      "id": "UMKM-003",
+      "name": "PT. Bandung Kreatif Digital",
+      "category": "Jasa IT",
+      "location": "Jl. Braga No. 45, Bandung",
+      "capacity": 750000000,
+      "contact": "0852-1234-5678",
+      "owner": "Ahmad Hidayat",
+      "verified": true
+    },
+    {
+      "id": "UMKM-004",
+      "name": "UD. Sumber Makmur",
+      "category": "Alat Kesehatan",
+      "location": "Jl. Ahmad Yani No. 78, Bandung",
+      "capacity": 300000000,
+      "contact": "0813-9876-5432",
+      "owner": "Dewi Lestari",
+      "verified": true
+    },
+    {
+      "id": "UMKM-005",
+      "name": "CV. Bangun Jaya",
+      "category": "Konstruksi & Material",
+      "location": "Jl. Gatot Subroto No. 12, Bandung",
+      "capacity": 2000000000,
+      "contact": "0822-5555-8888",
+      "owner": "Joko Widodo",
+      "verified": true
+    },
+    {
+      "id": "UMKM-006",
+      "name": "Koperasi Bandung Sejahtera",
+      "category": "Koperasi",
+      "location": "Jl. Merdeka No. 30, Bandung",
+      "capacity": 400000000,
+      "contact": "0812-7777-9999",
+      "owner": "Sri Mulyani",
+      "verified": true
+    },
+    {
+      "id": "UMKM-007",
+      "name": "PT. Digital Solusi",
+      "category": "Jasa IT",
+      "location": "Jl. Dipatiukur No. 56, Bandung",
+      "capacity": 850000000,
+      "contact": "0853-4444-5555",
+      "owner": "Rudi Hartono",
+      "verified": true
+    },
+    {
+      "id": "UMKM-008",
+      "name": "CV. Sarana Transport",
+      "category": "Kendaraan & Transportasi",
+      "location": "Jl. Soekarno-Hatta No. 200, Bandung",
+      "capacity": 1500000000,
+      "contact": "0811-2222-3333",
+      "owner": "Bambang Pamungkas",
+      "verified": true
+    },
+    {
+      "id": "UMKM-009",
+      "name": "UD. Berkah Abadi",
+      "category": "Kuliner & Katering",
+      "location": "Jl. Cihampelas No. 89, Bandung",
+      "capacity": 250000000,
+      "contact": "0822-6666-7777",
+      "owner": "Lina Marlina",
+      "verified": true
+    },
+    {
+      "id": "UMKM-010",
+      "name": "CV. Bandung Printing",
+      "category": "Percetakan",
+      "location": "Jl. Asia Afrika No. 45, Bandung",
+      "capacity": 180000000,
+      "contact": "0813-5555-6666",
+      "owner": "Andi Wijaya",
+      "verified": true
+    }
+  ],
+  "statistik": {
+    "by_kategori": {
+      "Elektronik & Komputer": 2,
+      "Jasa IT": 2,
+      "Alat Kesehatan": 1,
+      "Konstruksi & Material": 1,
+      "Koperasi": 1,
+      "Kendaraan & Transportasi": 1,
+      "Kuliner & Katering": 1,
+      "Percetakan": 1
+    }
+  }
+}
